@@ -1,0 +1,2807 @@
+
+
+@media only screen and (min-width: 980px) and (max-width: 1110px) {
+
+    /* =========================================================
+    ***************************Columns**************************
+    ============================================================ */
+    .last {
+        margin-right: 0 !important;
+    }
+    .wrapper,
+	.flx-boxed .flx-wrapper {
+        width: 96%;
+    }
+    /* =========================================================
+    ***********************Header*******************************
+    ============================================================ */
+    /*--- header style 2 ---*/
+    #flx-header.head-s2 #main-menu {
+        width:96%;
+    }
+    /*--- header style 3 ---*/
+    #flx-header.head-s3 #main-menu {
+        width:96%;
+    }
+    /*--- header style 4 ---*/
+    /* =========================================================
+    ***********************Main content*************************
+    ============================================================ */
+    #flx-main-content {
+        width: 980px;
+        float: 10px;
+        background: #FFF;
+    }
+    /* =========================================================
+    **************************Home page*************************
+    ============================================================ */
+    .flex-slider-wrapper {
+        width:96%;
+    }
+    .tp-caption.very_large_black_text {
+        font-size:40px;
+    }
+    .tp-caption.medium_text {
+        width:360px;
+    }
+    /* =========================================================
+    **************************Typography************************
+    ============================================================ */
+    /*======================
+    --------List Style------
+    ========================*/
+    /*======================
+    --------Radio Style------
+    ========================*/
+    /*======================
+    --------checkbox Style--
+    ========================*/
+    /*======================
+    --------Tab Style------
+    ========================*/
+    /************Accordion**************/
+    .accordion-container {
+        margin-left: 20px;
+    }
+    /************Button**************/
+    .flx-button-box .flx-button {
+        margin-right: 45px;
+    }
+    /*-------------Toggle Boxes-----------*/
+    /*-------------Tabs-----------*/
+    /* =========================================================
+    **************************Footer****************************
+    ============================================================ */
+
+    /* =========================================================
+    **************************FAQ Page**************************
+    ============================================================ */
+    /*------------------ Pagination ---------------------*/
+    .tab-highlight {
+        width: 106.735751%;
+    }
+    .flx-one-forth .tab-highlight {
+        width: 105%;
+        background:url("../images/background/hight-light-arrow.png") no-repeat scroll right top transparent;
+        left:1px;
+    }
+    .flx-boom .tab-highlight {
+        left: 0;
+        background:url("../images/background/hight-light-arrow.png") no-repeat scroll right top transparent;
+    }
+    .list-container-3 {
+        width: 19.938650%;
+    }
+    .flx-one-forth .list-container-3 {
+        width:84.782609%;
+    }
+    /* =========================================================
+    **************************Table Page************************
+    ============================================================ */
+    /*** Table 4 column ***/
+    .table-2col .pricing-column {
+        width: 49.795918%;
+    }
+    .table-3col .pricing-column {
+        width: 33.163265%;
+    }
+    .table-4col .pricing-column {
+        width: 24.795918%;
+    }
+    .table-5col .pricing-column {
+        width: 19.795918%;
+    }
+    /* =========================================================
+    **************************Service Page**********************
+    ============================================================ */
+    .flx-services {
+        margin: 0 -1.020408%;
+    }
+    .flx-services li {
+        margin: 10px 1.020408%;
+        width: 22.96%;
+    }
+    /*---------Carousel-----------*/
+    /*---------Page bottom-----------*/
+    /* =========================================================
+    **************************About Page************************
+    ============================================================ */
+    /*---------Skill bar-----------*/
+    #flx-skill li div {
+        width: 74.489796%;
+    }
+    .progress-bar.blue > span.progress-70 {
+        width:70% !important;
+    }
+    .progress-bar.blue > span.progress-90 {
+        width:90% !important;
+    }
+    .progress-bar.blue > span.progress-83 {
+        width:83% !important;
+    }
+    .progress-bar.blue > span.progress-75 {
+        width:75% !important;
+    }
+    .progress-bar.blue > span.progress-88 {
+        width:88% !important;
+    }
+    #flx-skill li p.flx-skill-title {
+        width: 15.306122%;
+    }
+    #flx-skill li p.flx-skill-number {
+        right:4.849315%;
+    }
+    .flx-boom {
+        margin-bottom:50px;
+    }
+    .flx-boom .list-container-3 {
+        width: 19.834151%;
+    }
+    .flx-boom .tab-container-3 {
+        width: 79.983640%;	
+    }
+
+    /* =========================================================
+    **************************Icons Page************************
+    ============================================================ */
+
+    /* =========================================================
+    **************************Error 404 Page************************
+    ============================================================ */
+    /* =========================================================
+    **************************Testimonials Page*****************
+    ============================================================ */
+    .testimonial-page {
+        width:100%;
+    }
+    .testimonial-page li {
+        width:97.959184%;
+        padding:0 1.020408%;
+    }
+    /* =========================================================
+    **************************Blog Page*************************
+    ============================================================ */
+    .flx-entry-content {
+        width:100%;
+    }
+    .flx-entry-item .flx-entry-content .flx-entry-author{
+        margin-right:4.8%;
+    }
+    .flx-entry-item .flx-entry-detail {
+        width:79.315068%;
+    }
+    .flx-gallery {
+        display:none;
+    }
+    .flx-entry-box .flx-gallery {
+        display:block;
+    }
+    .flx-entry-item.bs-3 .flx-entry-thumb {
+        margin-right:2.739726%;
+        width:31.506849%;
+    }
+    .mejs-controls div.mejs-horizontal-volume-slider {
+        width:10.048940% !important;
+    }
+    .mejs-controls div.mejs-time-rail {
+        width:67% !important;
+    }
+	.mejs-controls .mejs-time-rail .mejs-time-total {
+		width:65% !important;
+	}
+    .flx-entry-item.bs-3 .flx-entry-content {
+        width:65.616438%;
+    }
+    /* =========================================================
+    **************************Right Sidebar*********************
+    ============================================================ */
+    /*-------------Search Box--------------*/
+    #right-sidebar .widget,
+    #left-sidebar .widget {
+        margin-bottom:30px;
+    }
+    /*-------------Tag--------------*/
+    .flickr-wrap {
+        margin:-25px -9.317031% 0 0;
+    }
+    .flickr-wrap .flickr-badge-image {
+        margin:25px 9.448819% 0 0;
+        width:23.622047%;
+    }
+    /*--------- Top button ----------*/
+
+    /*--------- CountDown ----------*/
+    .wrapper-700 {
+        width:70%;
+    }
+    .under-struction .main-content {
+        width:96%;
+        padding:2%;
+    }
+    .under-struction .progress-bar {
+        width:80%;
+    }
+    /* Countdown */
+    /*===============Progress Bars===================*/
+
+    #flx-skill li div .progress-bar {
+        width:100%;
+    }
+
+    /* =========================================================
+    *******************Portfolio Detail Page********************
+    ============================================================ */
+    .pf-detail-img {
+        margin-right:3.061224%;
+        padding:1.020408%;
+        width:59.183673%;
+    }
+    .pf-detail-img audio,
+    .pf-detail-img video {
+        width:59.183673%;
+    }
+    .pf-content {
+        width:35.714286%;
+    }
+    .pf-detail-item .pf-slider-wrapper {
+        width:59.183673%;
+        margin:0 3.061224% 0 0;
+        padding:1.020408%;
+    }
+    .pf-detail-prev, 
+    .pf-detail-next {
+        bottom:15px;
+        margin-bottom:0;
+    }
+    .pf-list-style .pf-detail-box {
+        padding:40px 0 80px;
+    }
+    /* =========================================================
+    ************************Blog Detail Page********************
+    ============================================================ */
+    /*===============About Author===================*/
+    .about-author {
+        padding:10px 2.057613%;
+        width:95.884774%;
+    }
+    .about-author img {
+        margin-right:2.145923%;
+    }
+
+    /*===============Related Post===================*/
+    /*===============Comments List===================*/
+    #comments,
+    .comments-list,
+    .comments-list .comment {
+        width:100%;
+    }
+    .comment-wrap img {
+        width:12.345679%;
+        margin-right:2.743484%;
+    }
+    .comment-wrap .comment-body {
+        margin-left:15.089163%;
+        padding:15px 2.743484%;
+        width:79.01%;
+    }
+    .comment-wrap .comment-body footer {
+        width:100%;
+    }
+    .comment-wrap .comment-body .comment-reply-link {
+        margin-right:2.604167%;
+    }
+    .comments-list .children-1 {
+        margin-left:15.089163%;
+        width:84.910837%;
+    }
+    .comments-list .children-2 {
+        margin-left:30.178326%;
+        width:69.821674%;
+    }
+    .comment-pagination a, .comment-pagination span {
+        padding-left: 10px;
+    }
+
+    /* =========================================================
+    ***********************Home style 2 Page********************
+    ============================================================ */
+    .home-style-2 .flx-boom {
+        width:99.725652%;
+    }
+    .home-style-2 .flx-boom .list-container-3 {
+        width:22.947455%;
+    }
+    .home-style-2 .flx-boom .tab-container-3 {
+        width:76.873315%;
+    }
+    /*=======CLOUDS ANIMATE========*/
+    /* =========================================================
+    ***********************Home style 3 Page********************
+    ============================================================ */
+    /* =========================================================
+    ******************Portfolio style carousel Page*************
+    ============================================================ */
+    .flx-select-layout {
+        display:none !important;
+    }
+
+    /* =========================================================
+    ************************Contact Page************************
+    ============================================================ */
+
+    .flx-gooogle-map .contact-info {
+        width:45.098039%;
+        margin-top:-120px;
+        margin-left:-24.509804%;
+        padding:1.960784%;
+    }
+    .flx-map-form {
+        width:97.959184%;
+        padding:20px 1.020408%;
+    }
+    /*----------Contact Form-----------*/
+    #contact-form {
+        margin-top:40px;
+    }
+    #comments-form,
+    .flx-comment-left p,
+    .flx-comment-right p,
+    #contact-form,
+    .flx-contact-left p,
+    .flx-contact-right p {
+        width:100%;
+    }
+    .flx-comment-left,
+    .flx-comment-right,
+    .flx-contact-left,
+    .flx-contact-right {
+        float:left;
+    }
+    .flx-comment-left,
+    .flx-contact-left {
+        width:40%;
+        margin-right:5%;
+    }
+    .flx-comment-right,
+    .flx-contact-right {
+        width:55%;
+    }
+	
+	#pf-list-flex .flex-direction-nav a {
+		margin:-25px 0 0;
+	}
+	
+	/* =========================================================
+    ************************One Page************************
+    ============================================================ */
+	.container {
+		width:96%;
+	}
+	.flx-services li {
+		width:30.96%;
+	}
+	.client {
+		width:134px;
+	}
+	#blog-carousel .flx-entry-content {
+		padding:0 4% 10px;
+		width:92%;
+	}
+	.blog_page {
+		width:940px;
+	}
+	.blog_page .wrapper {
+		width:900px;
+		margin:0 auto;
+	}
+	.blog_page #comments, .comments-list, .comments-list .comment {
+		padding:0;
+	}
+	.blog_page .comment-wrap .comment-body footer p {
+		width:75px;
+	}
+	.flx-team .team-avatar img,
+	.blog_page .list-carousel #flx-slides-3 li .flx-recent-post-thumb img,
+	.pf-detail-img img,
+	#blog-carousel .flx-entry-item .flx-entry-thumb a img {
+		width:100%;
+	}
+    .comment-wrapper .attribution{
+        width: 84px;
+        height: 84px;
+    }
+    .list_carousel ul,ul#flx-team-slides {
+        text-align: center;
+    }
+    #blog-carousel li,ul#flx-team-slides li {
+        float:none;
+        display: inline-block;
+    }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+    #pf-list-flex ul.slides li img {
+        width: 100%;
+        height: 100%;
+    }
+    /* =========================================================
+    ***************************Columns**************************
+    ============================================================ */
+    .last {
+        margin-right: 0 !important;
+    }
+    .wrapper,
+	.flx-boxed .flx-wrapper {
+        width: 96%;
+    }
+    /* =========================================================
+    ***********************Header*******************************
+    ============================================================ */
+    #flx-header{
+
+    }
+    #flx-logo {
+        margin-bottom:5px;
+    }
+    #main-nav {
+        display:none;
+    }
+    .flx-mobile-menu {
+        display:block;
+    }
+	#mobile-menu {
+		width:90%;
+	}
+    #m-theme-option {
+        display:block  !important;
+    }
+    #theme-option {
+        display:none;
+    }
+    /*--- header style 2 ---*/
+    #flx-header.head-s2 #main-menu {
+        width:96%;
+    }
+    /*--- header style 3 ---*/
+    #flx-header.head-s3 #main-menu {
+        width:96%;
+    }
+    /*--- header style 4 ---*/
+    /* =========================================================
+    ***********************Main content*************************
+    ============================================================ */
+    #flx-main-content {
+        width: 980px;
+        float: 10px;
+        background: #FFF;
+    }
+    /* =========================================================
+    **************************Home page*************************
+    ============================================================ */
+    .flex-slider-wrapper {
+        width:96%;
+		margin:49px auto 0;
+    }
+    .tp-caption.very_large_black_text {
+        font-size:40px;
+    }
+    .tp-caption.medium_text {
+        width:285px;
+    }
+    #clouds-animate {
+        top:450px;
+    }
+    .home-style-3 .sti-menu {
+        margin-top:-25px;
+        margin-bottom:30px;
+    }
+    .home-style-3 .flx-recent-post .list-carousel .carousel-nav {
+        left:35%;
+    }
+    /* =========================================================
+    **************************Typography************************
+    ============================================================ */
+    /*======================
+    --------List Style------
+    ========================*/
+    /*======================
+    --------Radio Style------
+    ========================*/
+    /*======================
+    --------checkbox Style--
+    ========================*/
+    /*======================
+    --------Tab Style------
+    ========================*/
+    /************Accordion**************/
+    .accordion-container {
+        margin-left: 20px;
+    }
+    /************Button**************/
+    .flx-button-box .flx-button {
+        margin-right: 15px;
+    }
+    /*-------------Toggle Boxes-----------*/
+    /*-------------Tabs-----------*/
+    /* =========================================================
+    **************************Footer****************************
+    ============================================================ */
+
+    /* =========================================================
+    **************************FAQ Page**************************
+    ============================================================ */
+    /*------------------ Pagination ---------------------*/
+    .tab-highlight {
+        width: 106.035751%;
+    }
+    .flx-one-forth .tab-highlight {
+        width: 105%;
+        background:url("../images/background/hight-light-arrow.png") no-repeat scroll right top transparent;
+        left:1px;
+    }
+    .flx-boom .tab-highlight {
+        left: 0;
+        background:url("../images/background/hight-light-arrow.png") no-repeat scroll right top transparent;
+    }
+    .list-container-3 {
+        width: 19.938650%;
+    }
+    .flx-one-forth .list-container-3 {
+        width:92.782609%;
+    }
+    .list-container-3 ul li {
+        padding:10px;
+    }
+    /* =========================================================
+    **************************Table Page************************
+    ============================================================ */
+    /*** Table 4 column ***/
+    .table-2col .pricing-column {
+        width: 49.695918%;
+    }
+    .table-3col .pricing-column {
+        width: 33.143265%;
+    }
+    .table-4col .pricing-column {
+        width: 24.795918%;
+    }
+    .table-5col .pricing-column {
+        width: 19.795918%;
+    }
+    /* =========================================================
+    **************************Service Page**********************
+    ============================================================ */
+    .flx-services {
+        margin: 0 -1.020408%;
+    }
+    .flx-services li {
+        margin: 10px 1.020408%;
+        width: 22.96%;
+        height: auto;
+        overflow:hidden;
+    }
+    /*---------Carousel-----------*/
+    /*---------Page bottom-----------*/
+    /* =========================================================
+    **************************About Page************************
+    ============================================================ */
+    .about-social-link li {
+        margin:0 5px !important;
+    }
+    .about-social-link [class*="icon-"], .about-social-link [class^="icon-"]{
+        margin:0;
+    }
+    .carousel-nav-2 {
+        margin:30px 10px;
+    }
+    .carousel-prev-2 i,
+    .carousel-next-2 i {
+        z-index:99998;
+    }
+    /*---------Skill bar-----------*/
+    #flx-skill li div {
+        width: 74.489796%;
+    }
+    .progress-bar.blue > span.progress-70 {
+        width:70% !important;
+    }
+    .progress-bar.blue > span.progress-90 {
+        width:90% !important;
+    }
+    .progress-bar.blue > span.progress-83 {
+        width:83% !important;
+    }
+    .progress-bar.blue > span.progress-75 {
+        width:75% !important;
+    }
+    .progress-bar.blue > span.progress-88 {
+        width:88% !important;
+    }
+    #flx-skill li p.flx-skill-title {
+        width: 15.306122%;
+    }
+    #flx-skill li p.flx-skill-number {
+        right: 4.849315%;
+    }
+    .flx-boom {
+        margin-bottom:50px;
+    }
+    .flx-boom .list-container-3 {
+        width: 21.734151%;
+    }
+    .flx-boom .tab-container-3 {
+        width: 78.083640%;
+    }
+    .logo-widget {
+        width:100%;
+    }
+    .logo-widget .list-carousel.responsive {
+        margin:0 -10px;
+    }
+    /* =========================================================
+    **************************Icons Page************************
+    ============================================================ */
+
+    /* =========================================================
+    **************************Error 404 Page************************
+    ============================================================ */
+    .error-404 {
+        padding:20px 0 0;
+    }
+    /* =========================================================
+    **************************Testimonials Page*****************
+    ============================================================ */
+    .testimonial-page {
+        width:100%;
+    }
+    .testimonial-page li {
+        width:97.959184%;
+        padding:0 1.020408%;
+    }
+    /* =========================================================
+    **************************Blog Page*************************
+    ============================================================ */
+    .flx-entry-item {
+        margin-bottom:30px;
+    }
+    .flx-entry-content {
+        width:100%;
+    }
+    .flx-entry-item .flx-entry-content .flx-entry-author {
+        margin-right:5.479452%;
+    }
+    .flx-entry-item .flx-entry-detail {
+        width:79.315068%;
+    }
+    .flx-gallery {
+        display:none;
+    }
+    .flx-entry-box .flx-gallery {
+        display:block;
+    }
+    .flx-entry-item.bs-3 .flx-entry-thumb {
+        margin-right:2.739726%;
+        width:31.506849%;
+    }
+    .mejs-controls div.mejs-time-rail {
+        width:50.034294% !important;
+    }
+    .flx-entry-item.bs-3 .flx-entry-content {
+        width:65.616438%;
+    }
+    .flx-entry-item .flx-entry-title {
+        font-size:28px;
+    }
+    .mejs-controls .mejs-time-rail .mejs-time-total {
+        width:48% !important;
+    }
+    .bs-3 .mejs-controls div.mejs-time-rail {
+        width:39.034294% !important;
+    }
+    .bs-3 .mejs-controls .mejs-time-rail .mejs-time-total {
+        width:37% !important;
+    }
+    .bs-3 .mejs-container .mejs-controls .mejs-time {
+        display:none;
+    }
+    /* =========================================================
+    **************************Right Sidebar*********************
+    ============================================================ */
+    /*-------------Search Box--------------*/
+    #right-sidebar .widget,
+    #left-sidebar .widget {
+        margin-bottom:30px;
+    }
+    /*-------------Tag--------------*/
+    .flickr-wrap {
+        margin:-25px -9.317031% 0 0;
+    }
+    .flickr-wrap .flickr-badge-image {
+        margin:25px 9.448819% 0 0;
+        width:23.622047%;
+    }
+    /*--------- Top button ----------*/
+
+    /*--------- CountDown ----------*/
+    .wrapper-700 {
+        width:70%;
+    }
+    .under-struction .main-content {
+        width:96%;
+        padding:2%;
+    }
+    .under-struction .progress-bar {
+        width:80%;
+    }
+    /* Countdown */
+    .under-title {
+        margin-top:70px;
+    }
+    .under-title p {
+        font-size:44px;
+    }
+    /*===============Progress Bars===================*/
+
+    #flx-skill li div .progress-bar {
+        width:100%;
+    }
+
+    /* =========================================================
+    *******************Portfolio Detail Page********************
+    ============================================================ */
+    .pf-detail-box .content .media-vimeo-outer-wrapper{
+        width: 437px !important;
+        height: 300px !important;
+    }
+    .pf-detail-box .content .media-vimeo-preview-wrapper{
+        width: 437px !important;
+        height: 300px !important;
+    }
+    .pf-detail-box .content .media-vimeo-outer-wrapper object {
+        width: 100% !important;
+        height:100% !important;
+    }
+    .pf-detail-box .content .media-vimeo-outer-wrapper object embed {
+        width: 100% !important;
+        height:100% !important;
+    }
+    .pf-detail-box .content .media-vimeo-player,.pf-detail-box .content .mejs-mediaelement,.pf-detail-box .content iframe.media-youtube-player{
+        width: 100% !important;
+    }
+    .pf-detail-box .content .mejs-video{
+        width: 100% !important;
+    }
+    .pf-detail-box .content .mejs-audio{
+        width: 100% !important;
+    }
+    .pf-detail-img {
+        margin-right:3.061224%;
+        padding:1.020408%;
+        width:59.183673%;
+    }
+    .pf-detail-img audio,
+    .pf-detail-img video {
+        width:59.183673%;
+    }
+    .pf-content {
+        width:35.714286%;
+    }
+    .pf-detail-item .pf-slider-wrapper {
+        width:59.183673%;
+        margin:0 3.061224% 0 0;
+        padding:1.020408%;
+    }
+    .pf-list-style .pf-detail-box {
+        padding:40px 0 80px;
+    }
+    .pf-detail-prev,
+    .pf-detail-next {
+        bottom:15px;
+        margin-bottom:0;
+    }
+
+    #options #etc {
+        display:none;
+    }
+    /*.variable-sizes .element.height2,
+    .variable-sizes .element.height4 {
+        height:120px;
+    }
+    .variable-sizes .element.width2,
+    .variable-sizes .element.width3,
+    .variable-sizes .element.width4 {
+        width:185px;
+    }
+    .variable-sizes .element.height2 img {
+        height:100% !important;
+    }*/
+    /* =========================================================
+    ************************Blog Detail Page********************
+    ============================================================ */
+    /*===============About Author===================*/
+    .about-author {
+        padding:10px 2.057613%;
+        width:95.884774%;
+    }
+    .about-author img {
+        margin-right:2.145923%;
+    }
+
+    /*===============Related Post===================*/
+    /*===============Comments List===================*/
+    #comments,
+    .comments-list,
+    .comments-list .comment {
+        width:100%;
+    }
+    .comment-wrap img {
+        width:12.345679%;
+        margin-right:2.743484%;
+    }
+    .comment-wrap .comment-body {
+        margin-left:15.089163%;
+        padding:15px 2.743484%;
+        width:79.01%;
+    }
+    .comment-wrap .comment-body footer {
+        width:100%;
+    }
+    .comment-wrap .comment-body .comment-reply-link {
+        margin-right:2.604167%;
+    }
+    .comments-list .children-1 {
+        margin-left:15.089163%;
+        width:84.910837%;
+    }
+    .comments-list .children-2 {
+        margin-left:30.178326%;
+        width:69.821674%;
+    }
+    .comment-pagination a, .comment-pagination span {
+        padding-left: 10px;
+    }
+    .comment-wrap .comment-body footer p {
+        width:18%;
+    }
+
+    /* =========================================================
+    ***********************Home style 2 Page********************
+    ============================================================ */
+    .home-style-2 .flx-boom {
+        width:99.725652%;
+    }
+    .home-style-2 .flx-boom .list-container-3 {
+        width:26.547455%;
+    }
+    .home-style-2 .flx-boom .tab-container-3 {
+        width:73.193315%;
+    }
+    .sti-icon-care {
+        width:100px;
+        height:100px;
+        left:12.5%;
+    }
+    .layerslider-wrapper {
+        margin:20px 0;
+    }
+    /*=======CLOUDS ANIMATE========*/
+    /* =========================================================
+    ***********************Home style 3 Page********************
+    ============================================================ */
+    /* =========================================================
+    ******************Portfolio style carousel Page*************
+    ============================================================ */
+    .flx-select-layout {
+        display:none !important;
+    }
+
+    /* =========================================================
+    ************************Contact Page************************
+    ============================================================ */
+
+    .flx-gooogle-map .contact-info {
+        width:45.098039%;
+        margin-top:-19%;
+        margin-left:-24.509804%;
+        padding:1.960784%;
+    }
+    .flx-map-form {
+        width:97.959184%;
+        padding:20px 1.020408%;
+        margin:-30px 0 40px;
+    }
+    .flx-gooogle-map .contact-info h3 {
+        margin:0 0 10px 0;
+    }
+    /*----------Contact Form-----------*/
+    #contact-form {
+        margin-top:40px;
+    }
+    #comments-form,
+    .flx-comment-left p,
+    .flx-comment-right p,
+    #contact-form,
+    .flx-contact-left p,
+    .flx-contact-right p {
+        width:100%;
+    }
+    .flx-comment-left,
+    .flx-comment-right,
+    .flx-contact-left,
+    .flx-contact-right {
+        float:left;
+    }
+    .flx-comment-left,
+    .flx-contact-left {
+        width:40%;
+        margin-right:5%;
+    }
+    .flx-comment-right,
+    .flx-contact-right {
+        width:55%;
+    }
+
+	#pf-list-flex .flex-direction-nav a {
+		margin:-25px 0 0;
+	}
+
+	#right-sidebar .widget .widget-title, #left-sidebar .widget .widget-title {
+		font-size:22px;
+	}
+
+	/* =========================================================
+    ************************One Page************************
+    ============================================================ */
+	.container {
+		width:96%;
+	}
+	.flx-services li {
+		width:30.96%;
+	}
+	.client {
+		width:134px;
+	}
+	#blog-carousel .flx-entry-content {
+		padding:0 4% 10px;
+		width:92%;
+	}
+	.blog_page {
+		width:720px;
+	}
+	.blog_page .wrapper {
+		width:680px;
+		margin:0 auto;
+	}
+	.blog_page #comments, .comments-list, .comments-list .comment {
+		padding:0;
+	}
+	.blog_page .comment-wrap .comment-body footer p {
+		width:75px;
+	}
+	.flx-team .team-avatar img,
+	.blog_page .list-carousel #flx-slides-3 li .flx-recent-post-thumb img,
+	.pf-detail-img img,
+	#blog-carousel .flx-entry-item .flx-entry-thumb a img {
+		width:100%;
+	}
+	#flx-skill li p.flx-skill-title {
+		width:19.3061%;
+	}
+	#flx-skill li div {
+		width:70.4898%;
+	}
+	#flx-skill li p.flx-skill-number {
+		right:0;
+	}
+	.blog_page .flx-related-post .list-carousel #flx-slides-3 li .flx-recent-post-thumb:hover .mask {
+		height:77%;
+	}
+	#section1 img, #section2 img, #section3 img{
+		display:block;
+		width:100%;
+	}
+     #section4 img{
+        width: auto;
+        height: auto;
+    }
+	.bx-content h2, .bx-content h3 {
+		font-size:100px;
+		line-height:100px;
+	}
+    .comment-wrapper .attribution{
+        width: 78px;
+        height: 78px;
+    }
+  /*============fix-mail-contact============*/
+    .flx-gooogle-map .contact-info h3{
+        text-align: left;
+    }
+    .flx-gooogle-map .contact-info a{
+        margin-left: 27%;
+    }
+     /*=============fix-background=============*/
+     #section1, #section2, #section3, #section4 {
+        width: 100%;
+        height: 80%;
+    }
+    #content2,
+    #content3,
+    #content4,
+    #content6{
+        padding:20px 0 0;
+    }
+    .list_carousel ul,ul#flx-team-slides {
+        text-align: center;
+    }
+    #blog-carousel li,ul#flx-team-slides li {
+        float:none;
+        display: inline-block;
+    }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        padding:0;
+    }
+    .container {
+         padding-bottom: 70px;
+     }
+    /*=================Responsive======================*/
+    .pf-detail-box .content .media-vimeo-outer-wrapper{
+        width: 450px !important;
+        height: 300px !important;
+    }
+    .pf-detail-box .content .media-vimeo-preview-wrapper{
+        width: 450px !important;
+        height: 300px !important;
+    }
+    .pf-detail-box .content .media-vimeo-outer-wrapper object {
+        width: 100% !important;
+        height:100% !important;
+    }
+    .pf-detail-box .content .media-vimeo-outer-wrapper object embed {
+        width: 100% !important;
+        height:100% !important;
+    }
+    .pf-detail-box .content .media-vimeo-player,.pf-detail-box .content .mejs-mediaelement,.pf-detail-box .content iframe.media-youtube-player{
+        width: 100% !important;
+    }
+    .pf-detail-box .content .mejs-video{
+        width: 100% !important;
+    }
+    .pf-detail-box .content .mejs-audio{
+        width: 100% !important;
+    }
+
+    /* =========================================================
+    ***************************Columns**************************
+    ============================================================ */
+    .last {
+        margin-right: 0 !important;
+    }
+    .wrapper,
+	.flx-boxed .flx-wrapper {
+        width: 96%;
+    }
+    /* =========================================================
+    ***********************Header*******************************
+    ============================================================ */
+    #flx-header{
+
+    }
+    #flx-header {
+        border-bottom:none;
+    }
+    #flx-logo {
+        margin-bottom:5px;
+        float:none;
+        text-align:center;
+    }
+    .tophead .socials {
+        float:none;
+    }
+    #main-nav {
+        display:none;
+    }
+    .flx-mobile-menu {
+        display:block;
+    }
+	#mobile-menu {
+		width:85%;
+	}
+    #m-theme-option {
+        display:block !important;
+    }
+    #theme-option {
+        display:none;
+    }
+    /*--- header style 2 ---*/
+    #flx-header.head-s2 #main-menu {
+        width:96%;
+    }
+    /*--- header style 3 ---*/
+    #flx-header.head-s3 #main-menu {
+        width:96%;
+    }
+    /*--- header style 4 ---*/
+    /* =========================================================
+    ***********************Main content*************************
+    ============================================================ */
+    #flx-main-content {
+        width: 980px;
+        float: 10px;
+        background: #FFF;
+    }
+    /* =========================================================
+    **************************Home page*************************
+    ============================================================ */
+    .flex-slider-wrapper {
+        width:96%;
+    }
+    .tp-caption.very_large_black_text {
+        font-size:40px;
+    }
+    .tp-caption.medium_text {
+        width:175px;
+    }
+    #clouds-animate {
+        top:290px;
+    }
+    .home-style-3 .sti-menu {
+        margin-top:-25px;
+        margin-bottom:30px;
+    }
+    .home-style-3 .flx-recent-post .list-carousel .carousel-nav {
+        left:50%;
+    }
+    /* =========================================================
+    **************************Typography************************
+    ============================================================ */
+    .element-page .flx-one-forth {
+        width:47.5%;
+    }
+    .element-page .flx-three-forth,
+    .element-page .flx-one-forth {
+        margin-right:0;
+        width:100%;
+    }
+    .element-page .flx-two-third,
+    .element-page .flx-one-third {
+        margin-right:0;
+        width:100%;
+    }
+    /*======================
+    --------List Style------
+    ========================*/
+    /*======================
+    --------Radio Style------
+    ========================*/
+    /*======================
+    --------checkbox Style--
+    ========================*/
+    /*======================
+    --------Tab Style------
+    ========================*/
+    /************Accordion**************/
+    .accordion-container {
+        margin-left: 20px;
+    }
+    /************Button**************/
+    .flx-button-box .flx-button {
+        margin-right: 15px;
+        margin-bottom:10px;
+    }
+    .flx-one-third {
+        margin-right:0;
+        width:100%;
+    }
+    .error-404 h3 {
+        font-size:22px;
+    }
+    .error-404 h1 {
+        font-size:80px;
+    }
+    .pagination ul > li > a, .pagination ul > li > span {
+        padding:5px;
+    }
+    /*-------------Toggle Boxes-----------*/
+    /*-------------Tabs-----------*/
+    /* =========================================================
+    **************************Footer****************************
+    ============================================================ */
+    .footer-menu li {
+        margin:0 10px 0 0;
+    }
+    .footer-menu li a {
+        font-size:12px;
+    }
+    #footer-top .widget {
+        margin-bottom:20px;
+    }
+     .about-social-link [class*="icon-"], .about-social-link [class^="icon-"]{
+        margin-left: -1%;
+        margin-right: -1%;
+    }
+    /* =========================================================
+    **************************FAQ Page**************************
+    ============================================================ */
+    /*------------------ Pagination ---------------------*/
+    .tab-highlight {
+        width: 122.335751%;
+    }
+    .flx-one-forth .tab-highlight {
+        width: 109%;
+        background:url("../images/background/hight-light-arrow.png") no-repeat scroll right top transparent;
+        left:1px;
+    }
+    .flx-boom .tab-highlight {
+        left: 0;
+        background:url("../images/background/hight-light-arrow.png") no-repeat scroll right top transparent;
+        display:none;
+    }
+    .list-container-3 {
+        width: 19.938650%;
+    }
+    .flx-one-forth .list-container-3 {
+        width:100%;
+    }
+    .progress-bar.blue > span.progress-70 {
+        width:70% !important;
+    }
+    .progress-bar.blue > span.progress-90 {
+        width:90% !important;
+    }
+    .progress-bar.blue > span.progress-83 {
+        width:83% !important;
+    }
+    .progress-bar.blue > span.progress-75 {
+        width:75% !important;
+    }
+    .progress-bar.blue > span.progress-88 {
+        width:88% !important;
+    }
+    /* =========================================================
+    **************************Table Page************************
+    ============================================================ */
+    /*** Table 4 column ***/
+    .table-2col .pricing-column {
+        width: 49.595918%;
+    }
+    .table-3col .pricing-column {
+        width: 32.943265%;
+    }
+    .table-4col .pricing-column {
+        width: 48.795918%;
+    }
+    .table-5col .pricing-column {
+        width: 32.795918%;
+    }
+    /* =========================================================
+    **************************Service Page**********************
+    ============================================================ */
+    .flx-services {
+        margin: 0 -1.020408%;
+    }
+    .flx-services li {
+        margin: 10px 1.020408%;
+        width: 22.96%;
+        height: auto;
+    }
+    /*---------Carousel-----------*/
+    /*---------Page bottom-----------*/
+    /* =========================================================
+    **************************About Page************************
+    ============================================================ */
+    .list-carousel ul li .about-social-link li {
+        margin:0 2px;
+    }
+    .carousel-nav-2 {
+        margin:30px 10px;
+    }
+    .carousel-prev-2 i,
+    .carousel-next-2 i {
+        z-index:9;
+    }
+    /*---------Skill bar-----------*/
+    #flx-skill li div {
+        width: 74.489796%;
+    }
+    #flx-skill li p.flx-skill-title {
+        width: 15.306122%;
+        font-size:12px;
+    }
+    #flx-skill li p.flx-skill-number {
+        right:1.849315%;
+    }
+    .flx-boom {
+        margin-bottom:50px;
+    }
+    .flx-boom .list-container-3 {
+        width: 11.934151%;
+    }
+    .flx-boom .tab-container-3 {
+        width: 87.583640%;
+    }
+    .list-container-3 ul li {
+        text-align:center;
+    }
+    .list-container-3 ul li a i {
+        margin-right:0;
+    }
+    .list-container-3 ul li a span {
+        text-indent:-99999px;
+        line-height:0;
+        font-size:0;
+    }
+	.home-page .logo-widget {
+		margin-bottom:20px;
+    }
+	.home-page.home-style-3 .logo-widget,
+	.home-page.home-style-2 .logo-widget {
+		margin-bottom:60px;
+    }
+	.sub-page .logo-widget .widget-title {
+		margin-bottom:20px;
+	}
+    .logo-widget {
+        width:100%;
+    }
+    .logo-widget .list-carousel.responsive {
+        margin:0 -10px;
+    }
+    .slider-wrapper {
+        width:100%;
+    }
+	.testimonials {
+		margin-bottom:40px;
+	}
+	.home-style-2 .testimonials {
+		margin-bottom:0px;
+	}
+	.home-style-2 #testimonial-slider-1 {
+		padding-bottom:0;
+	}
+	.flx-recent-post {
+		padding-bottom:20px;
+		margin:-15px 0 20px;
+	}
+	.home-style-3 .flx-recent-post {
+		margin:30px 0 0;
+	}
+    /* =========================================================
+    **************************Icons Page************************
+    ============================================================ */
+
+    /* =========================================================
+    **************************Error 404 Page************************
+    ============================================================ */
+    .error-404 {
+        padding:20px 0 0;
+    }
+    /* =========================================================
+    **************************Testimonials Page*****************
+    ============================================================ */
+    .testimonial-page {
+        width:100%;
+    }
+    .testimonial-page li {
+        width:97.959184%;
+        padding:0 1.020408%;
+    }
+    .testimonial-page li .test {
+        width:71%;
+    }
+    /* =========================================================
+    **************************Blog Page*************************
+    ============================================================ */
+    .flx-entry-item {
+        margin-bottom:0;
+    }
+    .flx-entry-content {
+        width:100%;
+    }
+    .flx-entry-item .flx-entry-content .flx-entry-author {
+        margin-right:4.8%;
+    }
+    .flx-entry-item .flx-entry-detail {
+        width:76.915068%;
+    }
+    .flx-gallery {
+        display:none;
+    }
+    .flx-entry-box .flx-gallery {
+        display:block;
+    }
+    .flx-entry-item.bs-3 .flx-entry-thumb {
+        margin-right:2.739726%;
+        width:31.506849%;
+    }
+    .mejs-controls div.mejs-time-rail {
+        width:50.034294% !important;
+    }
+    .flx-entry-item.bs-3 .flx-entry-content {
+        width:65.616438%;
+    }
+    .flx-entry-item .flx-entry-title {
+        font-size:28px;
+    }
+    .mejs-controls .mejs-time-rail .mejs-time-total {
+        width:48% !important;
+    }
+    .bs-3 .mejs-controls div.mejs-time-rail {
+        width:39.034294% !important;
+    }
+    .bs-3 .mejs-controls .mejs-time-rail .mejs-time-total {
+        width:37% !important;
+    }
+    .bs-3 .mejs-container .mejs-controls .mejs-time {
+        display:none;
+    }
+    .bs-3 .mejs-controls div.mejs-horizontal-volume-slider {
+        width:19.148940%;
+    }
+    .bs-3 .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total {
+        width:100%;
+    }
+    .flx-entry-item .flx-entry-meta .flx-entry-categories {
+        margin-right:0;
+    }
+
+    /* =========================================================
+    **************************Right Sidebar*********************
+    ============================================================ */
+    /*-------------Search Box--------------*/
+    #right-sidebar .widget,
+    #left-sidebar .widget {
+        margin-bottom:30px;
+    }
+    /*-------------Tag--------------*/
+    .flickr-wrap {
+        margin:-10px -1.317031% 0 0;
+    }
+    .flickr-wrap .flickr-badge-image {
+        margin:25px 1.448819% 0 0;
+        width:15.122047%;
+    }
+    /*--------- Top button ----------*/
+
+    /*--------- CountDown ----------*/
+    .wrapper-700 {
+        width:90%;
+    }
+    .under-struction .main-content {
+        width:96%;
+        padding:2%;
+    }
+    .under-struction .progress-bar {
+        width:80%;
+    }
+    /* Countdown */
+    .under-title {
+        margin-top:70px;
+    }
+    .under-title p {
+        font-size:46px;
+        line-height:34px;
+    }
+    .under-struction footer .left {
+        float:none;
+        width:100%;
+        margin-bottom:20px;
+    }
+    /*===============Progress Bars===================*/
+
+    #flx-skill li div .progress-bar {
+        width:95%;
+    }
+
+    /* =========================================================
+    *******************Portfolio Detail Page********************
+    ============================================================ */
+    .pf-detail-img {
+        margin-right:0;
+        padding:1.020408%;
+        width:97.959184%;
+    }
+    .pf-detail-img audio,
+    .pf-detail-img video {
+        width:97.959184%;
+    }
+    .pf-content h3 {
+        padding-top: 15px;
+    }
+    .pf-content {
+        width:100%;
+    }
+    .pf-detail-item .pf-slider-wrapper {
+        width:97.959184%;
+        margin:0 0 10px 0;
+        padding:1.020408%;
+    }
+    .pf-list-style .pf-detail-box {
+        padding:40px 0 80px;
+    }
+    .pf-detail-prev,
+    .pf-detail-next {
+        bottom:15px;
+        margin-bottom:0;
+    }
+    #options {
+        margin:20px 0;
+    }
+    .pf-detail-box {
+        padding:30px 0 90px;
+    }
+    #options #etc {
+        display:none;
+    }
+    #pf-list-flex {
+        height:290px !important;
+    }
+    #pf-list-flex ul.slides li {
+        height: 290px !important;
+    }
+    #pf-list-flex ul.slides li img {
+        width: 100%;
+        height: 100%;
+    }
+    /*.variable-sizes .element.height2,
+    .variable-sizes .element.height4 {
+        height:120px;
+    }
+    .variable-sizes .element.width2,
+    .variable-sizes .element.width3,
+    .variable-sizes .element.width4 {
+        width:185px;
+    }*/
+
+    /* =========================================================
+    ************************Blog Detail Page********************
+    ============================================================ */
+    /*===============About Author===================*/
+    .about-author {
+        padding:10px 2.057613%;
+        width:95.884774%;
+    }
+    .about-author img {
+        margin-right:2.145923%;
+    }
+
+    /*===============Related Post===================*/
+    /*===============Comments List===================*/
+    #comments,
+    .comments-list,
+    .comments-list .comment {
+        width:100%;
+    }
+    .comment-wrap img {
+        width:12.345679%;
+        margin-right:2.743484%;
+    }
+    .comment-wrap .comment-body {
+        margin-left:15.089163%;
+        padding:15px 2.743484%;
+        width:79.01%;
+    }
+    .comment-wrap .comment-body footer {
+        width:100%;
+    }
+    .comment-wrap .comment-body .comment-reply-link {
+        margin-right:2.604167%;
+    }
+    .comments-list .children-1 {
+        margin-left:15.089163%;
+        width:84.910837%;
+    }
+    .comments-list .children-2 {
+        margin-left:30.178326%;
+        width:69.821674%;
+    }
+    .comment-pagination a, .comment-pagination span {
+        padding-left: 10px;
+    }
+    .comment-wrap .comment-body footer p {
+        width:30%;
+        text-align:right;
+    }
+    #comments-form label, #contact-form label {
+        font-size:14px;
+    }
+
+    /* =========================================================
+    ***********************Home style 2 Page********************
+    ============================================================ */
+    .home-style-2 .flx-boom {
+        width:99.725652%;
+    }
+    .home-style-2 .flx-boom .list-container-3 {
+        width:16.547455%;
+    }
+    .home-style-2 .flx-boom .tab-container-3 {
+        width:83.093315%;
+    }
+    .tab-content-3 {
+        padding:0 20px;
+    }
+    .sti-icon-care {
+        width:150px;
+        height:150px;
+        left:50%;
+        margin-left:-88px;
+    }
+    .sti-menu li a p {
+        width:100%;
+        text-align:center;
+        top:280px;
+    }
+    .layerslider-wrapper {
+        margin:20px 0;
+    }
+    #options #filters li a {
+        padding:5px;
+    }
+    .home-page .logo-widget .list-carousel.responsive {
+        margin:0 -10px;
+    }
+    /*=======CLOUDS ANIMATE========*/
+    /* =========================================================
+    ***********************Home style 3 Page********************
+    ============================================================ */
+    /* =========================================================
+    ******************Portfolio style carousel Page*************
+    ============================================================ */
+    .flx-select-layout {
+        display:none !important;
+    }
+
+    /* =========================================================
+    ************************Contact Page************************
+    ============================================================ */
+
+    .flx-gooogle-map .contact-info {
+        width:45.098039%;
+        margin-top:-22%;
+        margin-left:-24.509804%;
+        padding:1.960784%;
+    }
+    .flx-map-form {
+        width:97.959184%;
+        padding:20px 1.020408%;
+        margin:-30px 0 40px;
+    }
+    .flx-gooogle-map .contact-info h3 {
+        margin:0 0 10px 0;
+        height:50px;
+    }
+    /*----------Contact Form-----------*/
+    #contact-form {
+        margin-top:40px;
+    }
+    #comments-form,
+    .flx-comment-left p,
+    .flx-comment-right p,
+    #contact-form,
+    .flx-contact-left p,
+    .flx-contact-right p {
+        width:100%;
+    }
+    .flx-comment-left,
+    .flx-comment-right,
+    .flx-contact-left,
+    .flx-contact-right {
+        float:left;
+    }
+    .flx-comment-left,
+    .flx-contact-left {
+        width:40%;
+        margin-right:5%;
+    }
+    .flx-comment-right,
+    .flx-contact-right {
+        width:55%;
+    }
+    .flx-gooogle-map .contact-info > i {
+        display:none;
+    }
+	#pf-list-flex .flex-direction-nav a {
+		margin:-25px 0 0;
+	}
+
+	/* =========================================================
+    ************************One Page************************
+    ============================================================ */
+	.container {
+		width:96%;
+	}
+	.flx-services li {
+		width:46.96%;
+	}
+	.client {
+		width:134px;
+	}
+	#blog-carousel .flx-entry-content {
+		padding:0 4% 10px;
+		width:92%;
+	}
+	.blog_page {
+		width:440px;
+	}
+	.blog_page .wrapper {
+		width:400px;
+		margin:0 auto;
+	}
+	.blog_page #comments, .comments-list, .comments-list .comment {
+		padding:0;
+	}
+	.blog_page .comment-wrap .comment-body footer p {
+		width:75px;
+	}
+	.flx-team .team-avatar img,
+	.blog_page .list-carousel #flx-slides-3 li .flx-recent-post-thumb img {
+		width:100%;
+	}
+	#flx-skill li p.flx-skill-title {
+		width:19.3061%;
+	}
+	#flx-skill li div {
+		width:70.4898%;
+	}
+	#flx-skill li p.flx-skill-number {
+		right:0;
+	}
+	.blog_page .flx-related-post .list-carousel #flx-slides-3 li .flx-recent-post-thumb:hover .mask {
+		height:77%;
+	}
+	#section1 img, #section2 img, #section3 img{
+		display:block;
+		width:100%;
+	}
+     #section4 img{
+        width: 50%;
+        height: auto;
+    }
+	.flx-services li [class^="icon-"], .flx-services li [class*=" icon-"] {
+		font-size:80px;
+	}
+	h2 {
+		font-size:50px;
+	}
+	.bx-thumbs {
+		margin-left:-220px;
+	}
+	.bx-thumbs a {
+		margin:2px;
+		width:55px;
+		height:55px;
+	}
+	.bx-content h2, .bx-content h3 {
+		font-size:60px;
+		line-height:60px;
+	}
+    .comment-wrapper .attribution{
+        width: 59px;
+        height: 59px;
+    }
+    .comment-wrapper .comment-text{
+        margin-left: 70px;
+    }
+     #comment-form .form-text, #comment-form .form-textarea{
+        width:100%;
+    }
+    .variable-sizes .element.width2,
+    .variable-sizes .element.width3,
+    .variable-sizes .element.width4,
+    .variable-sizes .element.width5,
+    .variable-sizes .element.width6{ 
+        width: 185px; 
+    }
+    .variable-sizes .element.height2,
+    .variable-sizes .element.height3,
+    .variable-sizes .element.height4,
+    .variable-sizes .element.height5,
+    .variable-sizes .element.height6{
+        height: 120px; 
+    }
+    .element img { 
+        width:185px;
+        height: 120px; 
+    }
+    .comment-wrapper .indented{
+        margin-left: 0;
+    }
+     /*=============fix-next-preview-================*/
+    .carousel-prev-2 .icon-2x,.carousel-next-2 .icon-2x{
+        padding:5px;
+    }
+    /*=============fix-background=============*/
+    #section1, #section2, #section3, #section4 {
+        width: 100%;
+        height:70%;
+    }
+
+    #content2,
+    #content3,
+    #content4,
+    #content6{
+        padding:0 0 0;
+    }
+    #content2 .flx-overview-box .container{
+        padding-top: 0;
+    }
+    #section4 .wrapper {
+        margin-top : 15%;
+    }
+    .list_carousel ul,ul#flx-team-slides {
+        text-align: center;
+    }
+    #blog-carousel li,ul#flx-team-slides li {
+        float:none;
+        display: inline-block;
+    }
+}
+@media only screen and (min-width: 480px) and (max-width: 540px){
+    .flx-gooogle-map .contact-info a{
+        font-size: 21px;
+    }
+    .flx-gooogle-map .contact-info h3 a:hover {
+        font-size:22px;
+    }
+    .list_carousel ul,ul#flx-team-slides {
+        text-align: center;
+    }
+    #blog-carousel li,ul#flx-team-slides li {
+        float:none;
+        display: inline-block;
+    }
+}
+@media only screen and (max-width: 479px) {
+    #webform-component-layout-1 {
+        margin-right: 0;
+        width: 100%;
+        float:left;
+    }
+    #webform-component-layout-2 {
+        width: 100%;
+        float:left;
+    }
+    .container {
+        padding-bottom: 70px;
+    }
+    body {
+        padding:0;
+    }
+    #section4 .wrapper {
+        margin-top : 13%;
+    }
+    .pf-detail-box .content .media-vimeo-player,.pf-detail-box .content .mejs-mediaelement,.pf-detail-box .content .media-youtube-player{
+        width: 100% !important;
+        height:240px !important;
+    }
+    .pf-detail-box .content .mejs-video{
+        width: 100% !important;
+        height:240px !important;
+    }
+    #pf-list-flex {
+        height:220px !important;
+    }
+    #pf-list-flex ul.slides li {
+        height: 220px !important;
+    }
+    #pf-list-flex ul.slides li img {
+        width: 100%;
+        height: 100%;
+    }
+    .pf-content h3 {
+        padding-top: 15px;
+    }
+    /* =========================================================
+    ***************************Columns**************************
+    ============================================================ */
+    .last {
+        margin-right: 0 !important;
+    }
+    .wrapper,
+	.flx-boxed .flx-wrapper {
+        width: 96%;
+    }
+    /* =========================================================
+    ***********************Header*******************************
+    ============================================================ */
+    #flx-header{
+
+    }
+	.tophead .socials {
+        float:none;
+    }
+    #flx-logo {
+        margin-bottom:5px;
+        float:none;
+        text-align:center;
+    }
+    .tophead #flx-logo {
+        margin-bottom:10px;
+    }
+    .socials a {
+        line-height:48px;
+        width:40px;
+        height:40px;
+    }
+    #main-nav {
+        display:none;
+    }
+    .flx-mobile-menu {
+        display:block;
+		text-align:center;
+    }
+	#mobile-menu {
+		width:90%;
+	}
+    #theme-option,
+    .header-title .header-title-inner {
+        display:none;
+    }
+    .flx-intro-2 {
+        margin-top:0;
+    }
+    .flx-intro-2 h2 {
+        margin-bottom:10px;
+    }
+    .flx-intro-excerpt {
+        margin-bottom:0;
+    }
+    .about-social-link {
+        margin:20px 0 0px;
+    }
+    /*--- header style 2 ---*/
+    #flx-header.head-s2 #main-menu {
+        width:96%;
+    }
+    #home-flex-slider .flex-control-thumbs {
+        display:none;
+    }
+    .flx-intro-3 .flx-intro-excerpt {
+        width:100%;
+        margin-bottom:10px;
+    }
+    /*--- header style 3 ---*/
+    #flx-header.head-s3 #main-menu {
+        width:96%;
+    }
+    /*--- header style 4 ---*/
+    /* =========================================================
+    ***********************Main content*************************
+    ============================================================ */
+    #flx-main-content {
+        width: 980px;
+        float: 10px;
+        background: #FFF;
+    }
+    /* =========================================================
+    **************************Home page*************************
+    ============================================================ */
+    .flex-slider-wrapper {
+        width:96%;
+    }
+	#home-flex-slider .flex-direction-nav a {
+		margin:-25px 0 0;
+	}
+    .tp-caption.very_large_black_text {
+        font-size:40px;
+    }
+    .tp-caption.medium_text,
+    .left_medium_text {
+        width:175px;
+        display:none;
+    }
+    .flx-recent-post h2 {
+        font-size:20px;
+    }
+    #clouds-animate {
+        top:250px;
+    }
+    .home-style-3 .sti-menu {
+        margin-top:-25px;
+        margin-bottom:30px;
+    }
+    .home-style-3 .flx-recent-post .list-carousel .carousel-nav {
+        left:100%;
+        margin-left:-90px;
+    }
+    /* =========================================================
+    **************************Typography************************
+    ============================================================ */
+    .element-page .flx-one-forth {
+        width:47.5%;
+    }
+    .element-page .flx-three-forth,
+    .element-page .flx-one-forth {
+        margin-right:0;
+        width:100%;
+    }
+    .element-page .flx-two-third,
+    .element-page .flx-one-third {
+        margin-right:0;
+        width:100%;
+    }
+    /*======================
+    --------List Style------
+    ========================*/
+    /*======================
+    --------Radio Style------
+    ========================*/
+    /*======================
+    --------checkbox Style--
+    ========================*/
+    /*======================
+    --------Tab Style------
+    ========================*/
+    /************Accordion**************/
+    .accordion-container {
+        margin-left: 20px;
+    }
+    /************Button**************/
+    .flx-button-box .flx-button {
+        margin-right: 15px;
+        margin-bottom:10px;
+    }
+    .flx-one-third {
+        margin-right:0;
+        width:100%;
+    }
+    .error-404 h3 {
+        font-size:22px;
+        margin-top:30px;
+    }
+    .error-404 h1 {
+        font-size:50px;
+    }
+    .pagination ul > li > a, .pagination ul > li > span {
+        padding:5px 7px;
+    }
+    /*-------------Toggle Boxes-----------*/
+    /*-------------Tabs-----------*/
+    .flx-one-forth .tab-highlight {
+        display:none;
+    }
+    /* =========================================================
+    **************************Footer****************************
+    ============================================================ */
+    .footer-menu li {
+        margin:0 10px 0 0;
+        float:none;
+        display:inline-block;
+    }
+    .footer-menu li a {
+        font-size:12px;
+    }
+    #footer-top .widget {
+        margin-bottom:20px;
+    }
+
+    /* =========================================================
+    **************************FAQ Page**************************
+    ============================================================ */
+    /*------------------ Pagination ---------------------*/
+    .tab-highlight {
+        width: 110.335751%;
+    }
+    .flx-one-forth .tab-highlight {
+        width: 109%;
+        background:url("../images/background/hight-light-arrow.png") no-repeat scroll right top transparent;
+        left:1px;
+    }
+    .flx-boom .tab-highlight {
+        left: 0;
+        background:url("../images/background/hight-light-arrow.png") no-repeat scroll right top transparent;
+        display:none;
+    }
+    .list-container-3 {
+        width: 19.938650%;
+    }
+    .flx-one-forth .list-container-3 {
+        width:100%;
+    }
+    .list-container-3 ul li {
+        padding:5px 15px;
+        text-align:center;
+    }
+    .list-container-3 ul li a i {
+        margin-right:0;
+    }
+    /* =========================================================
+    **************************Table Page************************
+    ============================================================ */
+    /*** Table 4 column ***/
+    .table-2col .pricing-column {
+        width: 99.595918%;
+    }
+    .table-3col .pricing-column {
+        width: 99.943265%;
+    }
+    .table-4col .pricing-column {
+        width: 99.795918%;
+    }
+    .table-5col .pricing-column {
+        width: 99.795918%;
+    }
+    /* =========================================================
+    **************************Service Page**********************
+    ============================================================ */
+    .flx-services {
+        margin: 0 -1.020408%;
+    }
+    .flx-services li {
+        margin: 10px 1.020408%;
+        width: 47.96%;
+        height: auto;
+    }
+    .home-style-2 .flx-shadow-1 {
+        display:none;
+    }
+    /*---------Carousel-----------*/
+    /*---------Page bottom-----------*/
+    /* =========================================================
+    **************************About Page************************
+    ============================================================ */
+    .list-carousel ul li .about-social-link li {
+        margin:0 2px;
+    }
+    .carousel-nav-2 {
+        margin:10px;
+    }
+    .carousel-prev-2 i,
+    .carousel-next-2 i {
+        z-index:99998;
+    }
+    /*---------Skill bar-----------*/
+    #flx-skill li div {
+        width: 90%;
+    }
+    #flx-skill li p.flx-skill-title {
+        width: 100%;
+        font-size:14px;
+        float:none;
+    }
+    #flx-skill li p.flx-skill-number {
+        right:4.849315%;
+    }
+    .flx-boom {
+        margin-bottom:50px;
+    }
+    .flx-boom .list-container-3 {
+        width: 15%;
+    }
+    .flx-boom .tab-container-3 {
+        width: 84.5%;
+    }
+    .tab-content-3 {
+        padding:0 20px;
+    }
+    .list-container-3 ul li a span {
+        font-size:0;
+        line-height:0;
+        text-indent:-99999px;
+    }
+	.home-page .logo-widget {
+		margin-bottom:20px;
+    }
+	.home-page.home-style-2 .logo-widget,
+	.home-page.home-style-3 .logo-widget {
+		margin-bottom:60px;
+    }
+    .logo-widget {
+        width:100%;
+    }
+    .list-carousel.responsive {
+        margin:0 -5px;
+    }
+    .logo-widget .list-carousel.responsive {
+        margin:0 -5px;
+    }
+    .slider-wrapper {
+        width:100%;
+    }
+    .logo-widget .widget-title {
+        margin-bottom:20px;
+		font-size:20px;
+    }
+    .l1-s3 .flx-black-button {
+        padding:5px 10px;
+        font-size:14px;
+    }
+	.testimonials {
+		margin-bottom:60px;
+	}
+	.home-style-2 .testimonials {
+		margin-bottom:10px;
+	}
+	.home-style-3 .flx-recent-post {
+		margin:30px 0 0;
+	}
+	.home-style-2 .list-carousel .carousel-nav, .home-style-3 .list-carousel .carousel-nav {
+		margin-left:-42px;
+		left:100%;
+	}
+    /* =========================================================
+    **************************Icons Page************************
+    ============================================================ */
+
+    /* =========================================================
+    **************************Error 404 Page************************
+    ============================================================ */
+    .error-404 {
+        padding:20px 0 0;
+    }
+    /* =========================================================
+    **************************Testimonials Page*****************
+    ============================================================ */
+    .testimonial-page {
+        width:100%;
+    }
+    .testimonial-page li {
+        width:97.959184%;
+        padding:0 1.020408%;
+    }
+    .testimonial-page li .test {
+        width:52%;
+    }
+    .under-title p span {
+        font-size:16px;
+    }
+    ul#countdown li {
+        width:55px;
+        background-size:55px;
+    }
+    ul#countdown li span {
+        font-size:20px;
+        line-height:64px;
+    }
+    /* =========================================================
+    **************************Blog Page*************************
+    ============================================================ */
+    .flx-entry-content {
+        width:100%;
+    }
+    .flx-entry-item .flx-entry-content .flx-entry-author {
+        margin-right:0;
+        float:none;
+    }
+    .flx-entry-item .flx-entry-detail {
+        width:100%;
+    }
+    .flx-gallery {
+        display:none;
+    }
+    .flx-entry-box .flx-gallery {
+        display:block;
+    }
+    .flx-entry-item.bs-3 .flx-entry-thumb {
+        margin-right:0;
+        width:100%;
+        height:auto;
+    }
+    .mejs-controls div.mejs-time-rail {
+        width:42.034294% !important;
+    }
+    .mejs-controls div.mejs-horizontal-volume-slider {
+        width:13.148940%;
+    }
+    .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total {
+        width:45px;
+    }
+    .flx-entry-item.bs-3 .flx-entry-content {
+        width:100%;
+    }
+    .flx-entry-item .flx-entry-title {
+        font-size:22px;
+    }
+    .mejs-controls .mejs-time-rail .mejs-time-total {
+        width:38% !important;
+    }
+    .flx-entry-item .flx-entry-meta .flx-entry-categories {
+        display:block;
+        margin-right:0;
+    }
+
+    /* =========================================================
+    **************************Right Sidebar*********************
+    ============================================================ */
+    /*-------------Search Box--------------*/
+    #right-sidebar .widget,
+    #left-sidebar .widget {
+        margin-bottom:30px;
+    }
+    /*-------------Tag--------------*/
+    .flickr-wrap {
+        margin:-25px -1.317031% 0 0;
+    }
+    .flickr-wrap .flickr-badge-image {
+        margin:25px 1.448819% 0 0;
+        width:15.222047%;
+    }
+    /*--------- Top button ----------*/
+
+    /*--------- CountDown ----------*/
+    .wrapper-700 {
+        width:90%;
+    }
+    .under-struction .main-content {
+        width:96%;
+        padding:2%;
+    }
+    .under-struction .progress-bar {
+        width:80%;
+    }
+    /* Countdown */
+    .under-title {
+        margin-top:70px;
+    }
+    .under-title p {
+        font-size:46px;
+        line-height:34px;
+    }
+    .under-struction footer .left {
+        float:none;
+        width:100%;
+        margin-bottom:20px;
+    }
+    /*===============Progress Bars===================*/
+
+    #flx-skill li div .progress-bar {
+        width:95%;
+    }
+    .progress-bar.blue > span.progress-70 {
+        width:70% !important;
+    }
+    .progress-bar.blue > span.progress-90 {
+        width:90% !important;
+    }
+    .progress-bar.blue > span.progress-83 {
+        width:83% !important;
+    }
+    .progress-bar.blue > span.progress-75 {
+        width:75% !important;
+    }
+    .progress-bar.blue > span.progress-88 {
+        width:88% !important;
+    }
+    /* =========================================================
+    *******************Portfolio Detail Page********************
+    ============================================================ */
+    .pf-detail-img {
+        margin-right:0;
+        padding:1.020408%;
+        width:97.959184%;
+    }
+    .pf-detail-img audio,
+    .pf-detail-img video {
+        width:97.959184%;
+    }
+    .pf-content {
+        width:100%;
+    }
+    .pf-detail-item .pf-slider-wrapper {
+        width:97.959184%;
+        margin:0 0 10px 0;
+        padding:1.020408%;
+    }
+    .pf-list-style .pf-detail-box {
+        padding:40px 0 80px;
+    }
+    .pf-detail-prev,
+    .pf-detail-next {
+        bottom:15px;
+        margin-bottom:0;
+    }
+    #options {
+        margin:20px 0;
+    }
+    .pf-detail-box {
+        padding:30px 0 90px;
+    }
+    #options #etc {
+        display:none;
+    }
+    /*.variable-sizes .element.height2,
+    .variable-sizes .element.height4,
+    .variable-sizes .element.height5 {
+        height:120px;
+    }
+    .variable-sizes .element.width2,
+    .variable-sizes .element.width3,
+    .variable-sizes .element.width4,
+    .variable-sizes .element.width5 {
+        width:185px;
+    }
+    .variable-sizes .element.height2 img {
+        height:100% !important;
+    }*/
+    /* =========================================================
+    ************************Blog Detail Page********************
+    ============================================================ */
+    /*===============About Author===================*/
+    .about-author {
+        padding:10px 2.057613%;
+        width:95.884774%;
+    }
+    .about-author img {
+        margin-right:2.145923%;
+    }
+
+    /*===============Related Post===================*/
+    /*===============Comments List===================*/
+    #comments,
+    .comments-list,
+    .comments-list .comment {
+        width:100%;
+    }
+    .comment-wrap img {
+        width:12.345679%;
+        margin-right:2.743484%;
+    }
+    .comment-wrap .comment-body {
+        margin-left:15.089163%;
+        padding:15px 2.743484%;
+        width:79.01%;
+    }
+    .comment-wrap .comment-body footer {
+        width:100%;
+    }
+    .comment-wrap .comment-body .comment-reply-link {
+        margin-right:2.604167%;
+    }
+    .comments-list .children-1 {
+        margin-left:0;
+        width:100%;
+    }
+    .comments-list .children-2 {
+        margin-left:0;
+        width:100%;
+    }
+    .comment-pagination a, .comment-pagination span {
+        padding-left: 10px;
+    }
+    .comment-wrap .comment-body footer p {
+        width:31%;
+    }
+    #comments-form label, #contact-form label {
+        font-size:16px;
+    }
+
+    /* =========================================================
+    ***********************Home style 2 Page********************
+    ============================================================ */
+    .home-style-2 .flx-boom {
+
+    }
+    .home-style-2 .flx-boom .list-container-3 {
+
+    }
+    .home-style-2 .flx-boom .tab-container-3 {
+        width:84.5%;
+    }
+    .sti-icon-care {
+        width:120px;
+        height:120px;
+        left:50%;
+        margin-left:-73px;
+    }
+    .home-portfolio #options {
+        margin:0 0 20px;
+    }
+    #options #filters li {
+        margin-bottom:5px;
+    }
+    .flx-recent-post {
+        margin:0px 0 10px;
+        padding-bottom:15px;
+		padding-top:65px;
+    }
+    .sti-menu li a p {
+        width:100%;
+        text-align:center;
+        top:280px;
+    }
+    .layerslider-wrapper {
+        margin:20px 0;
+    }
+    #options #filters li a {
+        padding:5px;
+    }
+    .home-page .logo-widget .list-carousel.responsive {
+        margin:0 -5px;
+    }
+    /*=======CLOUDS ANIMATE========*/
+    /* =========================================================
+    ***********************Home style 3 Page********************
+    ============================================================ */
+    /* =========================================================
+    ******************Portfolio style carousel Page*************
+    ============================================================ */
+    .flx-select-layout {
+        display:none !important;
+    }
+    .flx-one-two {
+        margin-right:0;
+        width:100%;
+        margin-bottom:0px;
+    }
+    #testimonial-slider-1 {
+        padding-bottom:0;
+    }
+    /* =========================================================
+    ************************Contact Page************************
+    ============================================================ */
+
+    .flx-gooogle-map .contact-info {
+        width:70.098039%;
+        margin-top:-50%;
+        margin-left:-37.509804%;
+        padding:1.960784%;
+    }
+    .flx-map-form {
+        width:97.959184%;
+        padding:20px 1.020408%;
+        margin:-30px 0 40px;
+    }
+    .flx-gooogle-map .contact-info h3 {
+        margin:0 0 10px 0;
+        height:50px;
+    }
+    /*----------Contact Form-----------*/
+    #contact-form {
+        margin-top:40px;
+    }
+    #comments-form,
+    .flx-comment-left p,
+    .flx-comment-right p,
+    #contact-form,
+    .flx-contact-left p,
+    .flx-contact-right p {
+        width:100%;
+    }
+    .flx-comment-left,
+    .flx-comment-right,
+    .flx-contact-left,
+    .flx-contact-right {
+        float:left;
+    }
+    .flx-comment-left,
+    .flx-contact-left {
+        width:100%;
+        margin-right:0;
+    }
+    .flx-comment-right,
+    .flx-contact-right {
+        width:100%;
+    }
+    .flx-gooogle-map .contact-info > i {
+        display:none;
+    }
+    .flx-entry-item .flx-entry-meta .flx-entry-author, .flx-entry-item .flx-entry-meta .flx-entry-date {
+        margin-right:20px;
+    }
+    .flx-entry-item.bs-2 .flx-entry-meta .flx-entry-tags, .flx-entry-item.bs-2 .flx-entry-meta .flx-entry-categories {
+        float:none;
+        display:block;
+    }
+    h3 {
+        font-size:20px;
+    }
+	#pf-list-flex .flex-direction-nav a {
+		margin:-25px 0 0;
+	}
+
+	/* =========================================================
+    ************************One Page************************
+    ============================================================ */
+	.container {
+		width:96%;
+	}
+	.flx-services li {
+		width:98%;
+	}
+	.client {
+		width:134px;
+	}
+    #blog-carousel {
+        margin-left:9px !important;
+    }
+	#blog-carousel .flx-entry-content {
+		padding:0 4% 10px;
+		width:92%;
+	}
+	.blog_page {
+		width:260px;
+	}
+	.blog_page .wrapper {
+		width:220px;
+		margin:0 auto;
+	}
+	.blog_page #comments, .comments-list, .comments-list .comment {
+		padding:0;
+	}
+	.blog_page .comment-wrap .comment-body footer p {
+		width:75px;
+	}
+	.flx-team .team-avatar img,
+	.blog_page .list-carousel #flx-slides-3 li .flx-recent-post-thumb img,
+	.pf-detail-img img,
+	#blog-carousel .flx-entry-item .flx-entry-thumb a img {
+		width:100%;
+        height: auto;
+	}
+	#flx-skill li p.flx-skill-title {
+		width:19.3061%;
+	}
+	#flx-skill li div {
+		width:70.4898%;
+	}
+	 #flx-skill li p.flx-skill-number {
+		right:0;
+	}
+	.blog_page .flx-related-post .list-carousel #flx-slides-3 li .flx-recent-post-thumb:hover .mask {
+		height:77%;
+	}
+	#section1 img, #section2 img, #section3 img{
+		display:block;
+		width:100%;
+	}
+    #section4 img{
+        width: 50%;
+        height: auto;
+    }
+	.flx-services li [class^="icon-"], .flx-services li [class*=" icon-"] {
+		font-size:80px;
+	}
+	.list_carousel li {
+		width:260px;
+        margin-left: 0;
+	}
+    .list_carousel ul,ul#flx-team-slides {
+        text-align: center;
+    }
+    #blog-carousel li,ul#flx-team-slides li {
+        float:none;
+        display: inline-block;
+    }
+	h2 {
+		font-size:40px;
+	}
+	.bx-thumbs {
+		margin-left:-146px;
+	}
+	.bx-thumbs a {
+		margin:2px;
+		width:34px;
+		height:34px;
+	}
+	.bx-content h2, .bx-content h3 {
+		font-size:40px;
+		line-height:40px;
+	}
+     .about-social-link [class*="icon-"], .about-social-link [class^="icon-"]{
+        margin-left: -1.7%;
+        margin-right: -1.7%;
+    }
+    .comment-wrapper .indented{
+        margin-left: 0;
+    }
+    #comment-form .form-text, #comment-form .form-textarea{
+        width:100%;
+    }
+    .comment-wrapper .attribution{
+        width: 27px;
+        height: 27px;
+    }
+    .comment-wrapper .comment-text{
+        margin-left: 35px;
+    }
+    .variable-sizes .element.width2,
+    .variable-sizes .element.width3,
+    .variable-sizes .element.width4,
+    .variable-sizes .element.width5,
+    .variable-sizes .element.width6{ 
+        width: 185px; 
+    }
+    .variable-sizes .element.height2,
+    .variable-sizes .element.height3,
+    .variable-sizes .element.height4,
+    .variable-sizes .element.height5,
+    .variable-sizes .element.height6{
+        height: 120px; 
+    }
+    .element img { 
+        width:185px;;
+        height: 120px; 
+    }
+    ul.inline li{
+        padding:0 0.3em;
+    } 
+    .form-actions .form-submit {
+        padding: 6px 15px;
+    }
+    .blog_page .flx-entry-thumb {
+        height:180px;
+    }
+    .blog_page .flx-entry-thumb img{
+        height:100%;
+    }
+    .flx-gooogle-map .contact-info a{
+        font-size: 20px;
+    }
+    .flx-gooogle-map .contact-info h3 a:hover {
+    font-size:21px;
+    }
+    /*==========fix-blog on chrome========*/
+    .container-blog .list_carousel .caroufredsel_wrapper{
+          height:100% !important;
+          min-height: 620px !important;
+    }
+    .container-blog .list_carousel ul{
+        height: 100% !important;
+        overflow: hidden !important;
+    }
+    /*=============fix-next-preview-================*/
+    .carousel-prev-2 .icon-2x,.carousel-next-2 .icon-2x{
+        padding:8px;
+    }
+     /*=============fix-background=============*/
+     #section1, #section2, #section3, #section4 {
+        width: 100%;
+        height: 60%;
+    }
+    #content2,
+    #content3,
+    #content4,
+    #content6{
+        padding:0 0 0;
+    }
+    #content2 .flx-overview-box .container{
+        padding-top: 0;
+    }
+    #webform-component-layout-1 {
+        margin-right: 0;
+        width: 100%;
+        float:left;
+    }
+    #webform-component-layout-2 {
+        width: 100%;
+        float:left;
+    }
+    .mfp-close {
+        width: 26px;
+        height: 26px;
+        line-height: 26px;
+        position: absolute;
+        right: 5%;
+        top: 0.5%;
+        text-decoration: none;
+        text-align: center;
+        opacity: 0.65;
+        padding: 0 0 18px 10px;
+        color: white;
+        font-style: normal;
+        font-size: 28px;
+        font-family: Arial, Baskerville, monospace; }
+}

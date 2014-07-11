@@ -1,0 +1,31 @@
+.flx-meet-team .owl-theme .owl-controls {
+    margin-top: 55px;
+    padding-bottom: 0;
+    display: block;
+}
+.flx-meet-team .owl-theme .owl-controls .owl-prev,.flx-meet-team .owl-theme .owl-controls .owl-next {
+    position: absolute;
+    bottom: 0;
+    background: #f2f2f2;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    width: 36px;
+}
+.flx-meet-team .owl-theme .owl-controls i[class^="icon-"]:before, .flx-meet-team .owl-theme .owl-controls i[class*=" icon-"]:before {
+    line-height: 36px;
+}
+.flx-meet-team .owl-theme .owl-controls .owl-prev {
+    left:10px;
+}
+.flx-meet-team .owl-theme .owl-controls .owl-next {
+    right:10px;
+}
+
+ul#flx-team-slides {
+    text-align: center;
+}
+ul#flx-team-slides li {
+    float:none;
+    display: inline-block;
+}

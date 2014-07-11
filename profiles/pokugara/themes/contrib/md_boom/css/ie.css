@@ -1,0 +1,96 @@
+
+
+#flx-header.head-s4 #main-menu > li,
+#flx-header.head-s4 #main-menu > li > a,
+.widget-title.w-style2,
+.alert-box,
+.regular-radio + label,
+.regular-checkbox + label,
+.flx-button,
+.list-container-2 ul li a,
+.list-container-4 ul li a,
+.list-container-4 ul li a,
+.flx-dropcap.flx-color,
+.flx-dropcap.flx-cricle,
+.flx-dropcap.flx-cricle,
+.flx-more-link,
+.social-links li,
+.flx-services li article,
+.flx-recent-post .list-carousel .carousel-next,
+.flx-recent-post .list-carousel .carousel-prev,
+.carousel-prev-2 i, .carousel-next-2 i,
+.the-icons li,
+.testimonial-page li .info .avatar,
+.flx-entry-item .flx-entry-content .flx-entry-author img,
+.flx-entry-item .flx-entry-meta,
+.search-box .search-text,
+.search-box .search-submit,
+.flx-tag,
+.flickr-wrap .flickr-badge-image,
+.flickr-wrap .flickr-badge-image img,
+#back-top a,
+.under-struction .main-content,
+.under-struction footer .left a,
+.under-struction input.search-query,
+.progress-bar,
+.progress-bar > span,
+.progress-bar > span:after, .animate > span > span,
+.pf-detail-prev,
+.pf-detail-next,
+.pf-detail-hide,
+.flx-entry-box .flx-entry-content footer a,
+.comment-wrap .comment-body .comment-reply-link, .comment-wrap .comment-body .comment-edit-link,
+.flx-gooogle-map .contact-info,
+.flx-gooogle-map .contact-info > i,
+.flx-map-form,
+#comment_name,
+#comment_email,
+#comment_phone,
+#contact_name,
+#contact_email,
+#contact_phone,
+#comment_message,
+#contact_message,
+.comment-button span,
+.contact-button span,
+#comments-form #submit-comment,
+#contact-form #submit-contact,
+.header-title .breadcrumb,
+.wrapper-dropdown-3,
+.wrapper-dropdown-3 .dropdown,
+.wrapper-dropdown-3 .dropdown li a,
+.wrapper-dropdown-5,
+.wrapper-dropdown-5 .dropdown,
+.flex-control-paging li a,
+.testimonial-author img,
+#home-flex-slider .flex-control-thumbs li,
+#options #filters li a,
+.sti-menu li a,
+.sti-icon-care,
+.prev,
+.next,
+.bx-thumbs a {
+	behavior: url(js/PIE.htc);
+}
+
+.list-carousel #flx-slides li a,
+.list-carousel #flx-slides-2 li a {
+	width:100%;
+	height:100%;
+}
+
+.header-title {
+    background: url("../images/background/bg-header.jpg") repeat-x left top;
+}
+.flx-gooogle-map .contact-info {
+	background:#ff5400;
+}
+.flx-gooogle-map .contact-info > i {
+	color:#ff5400;
+}
+
+.element:hover .mask {
+    background: url("../images/background/bg-portfolio-thumb.png") no-repeat scroll center center;
+	border:1px solid #fff;
+}
+

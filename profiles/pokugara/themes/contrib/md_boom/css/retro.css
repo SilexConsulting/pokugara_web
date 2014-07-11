@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background:url(../images/retro/bg.jpg)
+}
+::selection {
+	background:none;
+	color:inherit;
+}
+::-moz-selection {
+	 background:none;
+	 color:inherit;
+}	
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Concert One', cursive;
+}

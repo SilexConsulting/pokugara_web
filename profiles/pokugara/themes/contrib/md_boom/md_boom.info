@@ -1,0 +1,29 @@
+name = MD Boom Theme
+description = Amazing Theme from MegaDrupal
+engine = phptemplate
+settings[twitter_account] = http://twtitter.com
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/onepage.css
+
+; Important Drupal regions
+regions[header] = Header
+regions[navigation] = Navigation
+regions[content] = content
+regions[footer] = Footer
+
+regions[content_1] =  Content 1
+regions[content_2] = Content 2
+regions[parallax_1] = Parallax 1
+regions[content_3] = Content 3
+regions[parallax_2] = Parallax 2
+regions[content_4] = Content 4
+regions[parallax_3] = Parallax 3
+regions[content_5] = Content 5
+regions[parallax_4] = Parallax 4
+regions[content_6] = Content 6
+regions[bottom_page] = Bottom Page
+
+project status url = http://updates.megadrupal.com/release-history
+version = "7.x-2.10"
+core = "7.x"
+project = "md_boom"

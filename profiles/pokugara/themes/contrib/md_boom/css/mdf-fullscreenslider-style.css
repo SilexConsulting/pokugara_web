@@ -1,0 +1,44 @@
+.mdf-thumb {
+    bottom: 10% !important;
+    overflow: visible !important;
+}
+.mdf-thumb-container a {
+    float: left;
+    width: 66px;
+    height: 66px;
+    border: 5px solid #FFF;
+    overflow: hidden;
+    margin: 2px 7px;
+    position: relative;
+    outline: none;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.8;
+	background-size:70px 70px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+	box-shadow: 
+        0px 0px 3px rgba(0,0,0,0.6),
+        0px 0px 0px 40px rgba(0,0,0,0.3) inset;
+    -webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+}
+.mdf-thumb-container a:hover{
+    opacity: 1.0;
+	margin-bottom:-10px;
+	transform:scale(1.5,1.5);
+    box-shadow: 
+        0px 0px 3px rgba(0,0,0,0.6),
+        0px 0px 0px 0px rgba(0,0,0,0.1) inset;
+	background-size:100px 100px;	
+}
+.mdf-thumb-container a.mdf-current{
+    opacity: 1.0;
+    border-color: #fff;
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.6);
+}

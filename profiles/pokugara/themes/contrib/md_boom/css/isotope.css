@@ -1,0 +1,297 @@
+/* Start: Recommended Isotope styles */
+
+/**** Isotope Filtering ****/
+
+.isotope-item {
+  z-index: 2;
+}
+
+.isotope-hidden.isotope-item {
+  pointer-events: none;
+  z-index: 1;
+}
+
+/**** Isotope CSS3 transitions ****/
+
+#options #filters li a {
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+
+.isotope,
+.isotope .isotope-item {
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+      -ms-transition-duration: 0.8s;
+       -o-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+      -ms-transition-property:     -ms-transform, opacity;
+       -o-transition-property:      -o-transform, opacity;
+          transition-property:         transform, opacity;
+}
+
+/**** disabling Isotope CSS3 transitions ****/
+
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  -webkit-transition-duration: 0s;
+     -moz-transition-duration: 0s;
+      -ms-transition-duration: 0s;
+       -o-transition-duration: 0s;
+          transition-duration: 0s;
+}
+
+/* End: Recommended Isotope styles */
+
+
+
+/* disable CSS transitions for containers with infinite scrolling*/
+.isotope.infinite-scrolling {
+  -webkit-transition: none;
+     -moz-transition: none;
+      -ms-transition: none;
+       -o-transition: none;
+          transition: none;
+}
+
+
+/**** Isotope styles ****/
+
+/* required for containers to inherit vertical size from window */
+
+#container {
+  margin:0 auto 120px;
+}
+.home-page #container {
+  margin:0 auto 40px;
+}
+
+.element {
+  width: 185px;
+  height: 120px;
+  margin: 5px;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  color: #222;
+}
+
+.element * {
+  position: absolute;
+  margin: 0;
+}
+
+.variable-sizes .element.width2 { width: 575px; }
+.variable-sizes .element.height2 { height: 250px; }
+.variable-sizes .element.width3 { width: 380px; }
+
+.variable-sizes .element.width4 { width: 480px; }
+.variable-sizes .element.height4 { height: 260px; }
+
+.variable-sizes .element.width5 { width: 315px; }
+.variable-sizes .element.height5 { height: 170px; }
+
+.variable-sizes .element.width6 { width: 235px; }
+.variable-sizes .element.height6 { height: 127px; }
+
+.element img { 
+	z-index: 0;
+	width: 100%; 
+	max-width:none;
+}
+
+.element .number { display: none; }
+
+.clickable .element:hover {
+  cursor: pointer;
+}
+
+.clickable .element:hover h3 {
+  text-shadow:
+    0 0 10px white,
+    0 0 10px white
+  ;
+}
+
+.clickable .element:hover h2 {
+  color: white;
+}
+
+/**** Example Options ****/
+
+#options {
+  margin:50px 0;
+}
+
+#options #filters {
+	float:left;
+}
+
+#options #etc {
+	float:right;
+	margin-top: 2px;
+}
+
+#options #etc li a i {
+	color:#9f9f9f;
+}
+
+#options #etc li a:hover i {
+	color:#ff5400;
+}
+
+#options #etc li a.toggle-selected i {
+	color:#3f3f3f;
+}
+
+#options h3 {
+  margin-bottom: 0.2em;
+  font-size: 15px;
+}
+
+#options h4 { 
+  font-weight: bold;
+}
+
+#options ul {
+  margin: 0;
+  list-style: none;
+}
+
+#options ul ul {
+  margin-left: 1.5em;
+}
+
+#options li {
+  float: left;
+}
+#options #filters li {
+	margin-right:1px;
+}
+#options #filters li a {
+	font-size:12px;
+  	display: block;
+  	padding: 10px 20px;
+  	color: #404040;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	position:relative;
+	z-index:0;
+}
+
+#options #filters li a:active,
+#options #filters li a.selected,
+#options #filters li a:hover {
+	color:#fff;
+  	background-color: #ff5400;
+  	-webkit-box-shadow: 0 1px 0 #d74700;
+    -moz-box-shadow: 0 1px 0 #d74700;
+    -o-box-shadow: 0 1px 0 #d74700;
+    box-shadow: 0 1px 0 #d74700;
+}
+
+.element .mask {
+	position:absolute;
+	display:block;
+	height:100%;
+	width:100%;
+	top:0;
+	left:0;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	-ms-transition: all .2s ease-in-out;
+	-o-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+	background:url(../images/background/bg-portfolio-thumb.png) center center no-repeat rgba(0, 0, 0, 0);
+	background-size:0 0;
+	z-index:9;
+}
+.element:hover .mask {
+	width:96%;
+	height:90%;
+	top:4.5%;
+	left:1.85%;
+	background:url(../images/background/bg-portfolio-thumb.png) center center no-repeat rgba(0, 0, 0, .8);
+	background-size:31px 25px;
+}
+.element img {
+   -webkit-transform: scaleY(1);
+   -moz-transform: scaleY(1);
+   -o-transform: scaleY(1);
+   -ms-transform: scaleY(1);
+   transform: scaleY(1);
+   -webkit-transition: all 0.7s ease-in-out;
+   -moz-transition: all 0.7s ease-in-out;
+   -o-transition: all 0.7s ease-in-out;
+   -ms-transition: all 0.7s ease-in-out;
+   transition: all 0.7s ease-in-out;
+}
+.element .mask h4 {
+	opacity:0;
+	filter: alpha(opacity=0);
+	font-family: 'Source Sans Pro', sans-serif;
+	position:absolute;
+	color:#fff;
+	left:0;
+	width:100%;
+	text-align:center;
+}
+.element:hover .mask h4,
+.element:hover .mask .flx-pf-gallery,
+.element:hover .mask .flx-pf-detail {
+	opacity:1;
+	filter: alpha(opacity=100);
+}
+.element:hover .mask h4 {
+	font-size:14px;
+	bottom:15px;	
+	font-weight:500;
+}	
+.element:hover .mask span {
+	font-size:12px;
+	bottom:10px;
+}
+.element .mask .flx-pf-gallery {
+	width:31px;
+	height:25px;
+	opacity:0;
+	filter: alpha(opacity=0);
+	display:block;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin:-12px 0 0 -15px;
+}
+.element .mask .flx-pf-detail {
+	margin:0;
+	padding:0;
+	position:static;
+	font-family: 'Source Sans Pro', sans-serif;
+	color:#fff;
+}
+.element .mask .flx-pf-detail:hover {
+	color:#ff5400;
+}
+
+/* The Magnificent Clearfix: nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
